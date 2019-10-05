@@ -1,4 +1,3 @@
-
 CREATE TABLE host (
 	host_number INT PRIMARY KEY,
 	host_title TEXT
